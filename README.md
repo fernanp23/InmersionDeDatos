@@ -12,4 +12,10 @@ Desafíos aula 2:
 ![Captura4](https://user-images.githubusercontent.com/67800915/228694198-e827c04a-0d05-4365-b947-c1c512b99074.PNG)
 ![Captura5](https://user-images.githubusercontent.com/67800915/228694212-41de9b0d-3043-4d8c-9316-d217d6d12f78.PNG)
 
+Desafíos aula 3:
+1. Dar un vistazo a la base de datos del DANE, entender estas variables conceptualmente para entender mejor el contexto de esta base.
+2. Organizar tu notebook para que tu proyecto quede mejor presentado.
+![Captura](https://user-images.githubusercontent.com/67800915/232559156-a790abee-f0e2-494b-897f-29d818f3eeff.PNG)
+
+
 
